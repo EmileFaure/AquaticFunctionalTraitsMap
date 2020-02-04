@@ -1,0 +1,49 @@
+Resource acquisition
+Growth
+Reproduction
+Survival
+Food particle size%22 OR %22Food size
+Water content
+Maximum organism size%22 OR %22Maximum size
+Organism shape%22 OR %22Body shape
+Volume to biomass ratio%22 OR %22Volume ratio%22 OR %22Biomass ratio
+Level of cellularity%22 OR %22Coloniality%22 OR %22Cellularity level
+Bioluminescence	
+Breeding type%22 OR %22Development type
+Defences structures%22 OR %22armouring%22 OR %22biomineralization
+Fecundity%22 OR %22offspring size%22 OR %22offspring number
+Transparency
+Stoichiometric requirements%22 OR %22Stoichiometric content
+Feeding efficiency%22 OR %22clearance rate
+Food preferences%22 OR %22diet
+Feeding mode
+Life cycle%22 OR %22Aquatic stage%22 OR %22Aquatic stages
+Faecal pellet
+Lifespan%22 OR %22longevity
+Voltinism
+Chemical compounds%22 AND %28%22mating%22 OR %22detecting%22%29
+Colour%22 OR %22Color
+Type of reproduction%22 OR %22Reproduction type
+Reproduction strategy%22 OR %22parental care
+Resting stages%22 OR %22Dormancy%22 OR %22Diapause
+Photosynthesis ability%22 OR %22Photosynthetic capacity
+Size at maturation
+Maximum growth rate
+Salinity preferences%22 OR %22Salinity tolerances
+Nutrient requirements
+Starvation tolerance%22 OR %22Lipid content%22 OR %22Lipid reserves
+Basal metabolic rate
+Toxin production
+Escape response%22 OR %22Escape responses
+Allelochemical
+Dissemination potential%22 OR %22Dispersal
+Motility%22 OR %22Locomotion
+Migrations%22 OR %22Migration
+Substrate relation%22 OR %22Relation to substrate%22 OR %22Substrate specific
+Ecosystem engineering%22 OR %22Bioturbation%22 OR %22Irrigation
+Sounds%22 OR %22Sound perception%22 OR %22Perception of sound
+Sounds%22 OR %22Sound production%22 OR %22Production of sound
+Behavioral%22 OR %22Behavioural
+Physiological
+Life history
+Morphological

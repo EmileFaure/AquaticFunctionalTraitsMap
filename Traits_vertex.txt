@@ -1,0 +1,50 @@
+Name	Attribute
+Resource acquisition	Ecological function
+Growth	Ecological function
+Reproduction	Ecological function
+Survival	Ecological function
+Food particle size range	Trait
+Water content	Trait
+Maximum organism size	Trait
+Organism shape	Trait
+Volume to biomass ratio	Trait
+Level of cellularity/Coloniality	Trait
+Bioluminescence	Trait
+Breeding type	Trait
+Defences structures (incl. armoring, biomineralization)	Trait
+Fecundity (offspring size & number)	Trait
+Transparency	Trait
+Stoichiometric requirements/content	Trait
+Feeding efficiency or clearance rate	Trait
+Food preferences/diet	Trait
+Feeding mode	Trait
+Life cycle (incl. bentho-pelagic cycle)/ Aquatic stage(s)	Trait
+Faecal pellet production	Trait
+Lifespan/longevity	Trait
+Voltinism	Trait
+Chemical compounds for mating or detecting congeners	Trait
+Color	Trait
+Type of reproduction (sexual or asexual)	Trait
+Reproduction strategy (free or fixed eggs/clutches, parental care)	Trait
+Resting stages/ dormancy/ diapause	Trait
+Photosynthesis ability	Trait
+Size at maturation	Trait
+Maximum growth rate	Trait
+Salinity preferences/tolerances	Trait
+Nutrient requirements	Trait
+Starvation tolerance, incl. lipid reserves/content	Trait
+Basal metabolic rate	Trait
+Toxin production	Trait
+Escape responses	Trait
+Allelochemical compounds	Trait
+Dissemination potential	Trait
+Motility/Locomotion (pattern, speed)	Trait
+Migrations	Trait
+Substrate relation (plankton/benthos, including substrate specific relation for benthos)	Trait
+Ecosystem engineering, including bioturbation/irrigation for benthos	Trait
+Perception of sounds	Trait
+Production of sounds	Trait
+Behavioral	Trait type
+Physiological	Trait type
+Life History	Trait type
+Morphological	Trait type

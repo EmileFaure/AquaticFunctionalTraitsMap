@@ -1,0 +1,124 @@
+From	To
+Resource acquisition	Maximum organism size
+Resource acquisition	Organism shape
+Resource acquisition	Volume to biomass ratio
+Resource acquisition	Level of cellularity/Coloniality
+Resource acquisition	Bioluminescence
+Resource acquisition	Food particle size range
+Resource acquisition	Life cycle (incl. bentho-pelagic cycle)/ Aquatic stage(s)
+Resource acquisition	Stoichiometric requirements/content
+Resource acquisition	Feeding efficiency or clearance rate
+Resource acquisition	Food preferences/diet
+Resource acquisition	Feeding mode
+Resource acquisition	Lifespan/longevity
+Resource acquisition	Photosynthesis ability
+Resource acquisition	Salinity preferences/tolerances
+Resource acquisition	Nutrient requirements
+Resource acquisition	Allelochemical compounds
+Resource acquisition	Motility/Locomotion (pattern, speed)
+Resource acquisition	Substrate relation (plankton/benthos, including substrate specific relation for benthos)
+Resource acquisition	Ecosystem engineering, including bioturbation/irrigation for benthos
+Resource acquisition	Perception of sounds
+Growth	Maximum organism size
+Growth	Organism shape
+Growth	Volume to biomass ratio
+Growth	Level of cellularity/Coloniality
+Growth	Water content
+Growth	Life cycle (incl. bentho-pelagic cycle)/ Aquatic stage(s)
+Growth	Lifespan/longevity
+Growth	Type of reproduction (sexual or asexual)
+Growth	Size at maturation
+Growth	Maximum growth rate
+Growth	Salinity preferences/tolerances
+Growth	Nutrient requirements
+Growth	Stoichiometric requirements/content
+Growth	Faecal pellet production
+Growth	Motility/Locomotion (pattern, speed)
+Growth	Substrate relation (plankton/benthos, including substrate specific relation for benthos)
+Growth	Ecosystem engineering, including bioturbation/irrigation for benthos
+Reproduction	Maximum organism size
+Reproduction	Organism shape
+Reproduction	Volume to biomass ratio
+Reproduction	Level of cellularity/Coloniality
+Reproduction	Bioluminescence
+Reproduction	Breeding type
+Reproduction	Fecundity (offspring size & number)
+Reproduction	Voltinism
+Reproduction	Life cycle (incl. bentho-pelagic cycle)/ Aquatic stage(s)
+Reproduction	Lifespan/longevity
+Reproduction	Type of reproduction (sexual or asexual)
+Reproduction	Reproduction strategy (free or fixed eggs/clutches, parental care)
+Reproduction	Salinity preferences/tolerances
+Reproduction	Chemical compounds for mating or detecting congeners
+Reproduction	Substrate relation (plankton/benthos, including substrate specific relation for benthos)
+Reproduction	Ecosystem engineering, including bioturbation/irrigation for benthos
+Reproduction	Perception of sounds
+Reproduction	Production of sounds
+Survival	Maximum organism size
+Survival	Organism shape
+Survival	Volume to biomass ratio
+Survival	Level of cellularity/Coloniality
+Survival	Bioluminescence
+Survival	Defences structures (incl. armoring, biomineralization)
+Survival	Transparency
+Survival	Color
+Survival	Life cycle (incl. bentho-pelagic cycle)/ Aquatic stage(s)
+Survival	Lifespan/longevity
+Survival	Resting stages/ dormancy/ diapause
+Survival	Salinity preferences/tolerances
+Survival	Starvation tolerance, incl. lipid reserves/content
+Survival	Basal metabolic rate
+Survival	Toxin production
+Survival	Escape responses
+Survival	Dissemination potential
+Survival	Migrations
+Survival	Substrate relation (plankton/benthos, including substrate specific relation for benthos)
+Survival	Ecosystem engineering, including bioturbation/irrigation for benthos
+Survival	Perception of sounds
+Survival	Production of sounds
+Morphological	Maximum organism size
+Morphological	Organism shape
+Morphological	Volume to biomass ratio
+Morphological	Level of cellularity/Coloniality
+Morphological	Bioluminescence
+Morphological	Food particle size range
+Morphological	Water content
+Morphological	Defences structures (incl. armoring, biomineralization)
+Morphological	Transparency
+Morphological	Color
+Life History	Breeding type
+Life History	Fecundity (offspring size & number)
+Life History	Voltinism
+Life History	Life cycle (incl. bentho-pelagic cycle)/ Aquatic stage(s)
+Life History	Lifespan/longevity
+Life History	Type of reproduction (sexual or asexual)
+Life History	Size at maturation
+Life History	Reproduction strategy (free or fixed eggs/clutches, parental care)
+Life History	Resting stages/ dormancy/ diapause
+Physiological	Lifespan/longevity
+Physiological	Photosynthesis ability
+Physiological	Maximum growth rate
+Physiological	Salinity preferences/tolerances
+Physiological	Nutrient requirements
+Physiological	Stoichiometric requirements/content
+Physiological	Feeding efficiency or clearance rate
+Physiological	Food preferences/diet
+Physiological	Feeding mode
+Physiological	Faecal pellet production
+Physiological	Chemical compounds for mating or detecting congeners
+Physiological	Starvation tolerance, incl. lipid reserves/content
+Physiological	Basal metabolic rate
+Physiological	Toxin production
+Behavioral	Level of cellularity/Coloniality
+Behavioral	Reproduction strategy (free or fixed eggs/clutches, parental care)
+Behavioral	Food preferences/diet
+Behavioral	Feeding mode
+Behavioral	Allelochemical compounds
+Behavioral	Escape responses
+Behavioral	Dissemination potential
+Behavioral	Motility/Locomotion (pattern, speed)
+Behavioral	Migrations
+Behavioral	Substrate relation (plankton/benthos, including substrate specific relation for benthos)
+Behavioral	Ecosystem engineering, including bioturbation/irrigation for benthos
+Behavioral	Perception of sounds
+Behavioral	Production of sounds
