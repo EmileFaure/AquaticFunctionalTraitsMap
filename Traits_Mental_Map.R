@@ -11,8 +11,8 @@ library(igraph)
 library(magrittr)
 
 # Data importation
-Vertex = read.table("/Users/emile/Documents/Article review traits/Traits_vertex.txt", header = T, sep = "\t")
-Edges = read.table("/Users/emile/Documents/Article review traits/Traits_edges.txt", header = T, sep = "\t")
+Vertex = read.table("/PATH/TO/Traits_vertex.txt", header = T, sep = "\t")
+Edges = read.table("/PATH/TO/Traits_edges.txt", header = T, sep = "\t")
 
 #### Network creation ####
 
@@ -46,7 +46,7 @@ net <- forceNetwork(Links = gD3$links, Nodes = gD3$nodes, Source = 'source', Tar
 
 # We want each node to open a tab with a google scholar search corresponding to each trait
 # We will create hyperlinks corresponding to searches for each node
-NamesHyperlink = read.table("/Users/emile/Documents/Article review traits/Traits_vertex_keywordsforhyperlink_nohierarchy.txt", header = F, sep = "\t") #Pre-written file containing search keywords for each trait
+NamesHyperlink = read.table("/PATH/TO/Traits_vertex_keywordsforhyperlink_nohierarchy.txt", header = F, sep = "\t") #Pre-written file containing search keywords for each trait
 net$x$nodes$names_for_hyperlink = as.character(NamesHyperlink[,1])
 
 net$x$nodes$names_for_hyperlink = gsub(" ", "+", net$x$nodes$names_for_hyperlink)
@@ -59,7 +59,7 @@ net$x$nodes$hyperlink = paste0(
 # The hyperlink including chemical compound is not satisfactory due to a parenthesis closing before the %22 automatically added, we manually refine it :
 net$x$nodes$hyperlink[24]="https://scholar.google.fr/scholar?as_vis=1&hl=fr&as_sdt=1,5&q=%28%22functional+trait%22+OR+%22trait-based%22%29+AND+%28%22aquatic%22+OR+%22marine%22+OR+%22ocean%22+OR+%22coastal%22+OR+%22deep-sea%22+OR+%22pelagic%22+OR+%22benthic%22+OR+%22freshwater%22+OR+%22lake%22+OR+%22river%22+OR+%22limnology%22%29+AND+%28%22Chemical+compounds%22+OR+%22Signalling+molecules%22+OR+%22Signal+molecules%22%29+&btnG="
 
-# Set the click action to open new tab with hyperlink :
+# Set the click action to open new tab using hyperlink :
 net$x$options$clickAction = 'window.open(d.hyperlink)'
 
 #### Saving an html version of the mental map ####
@@ -77,6 +77,6 @@ htmlwidgets::onRender(
   d3.select("h3").style("color", "#144370").style("font-family", "futura").style("font-size", "8px");
   }'
 )  %>%
-  saveNetwork(file = '/Users/emile/Documents/Article review traits/Traits_Mental_map_ScholarLinks.html')
+  saveNetwork(file = '/PATH/TO/Traits_Mental_map_ScholarLinks.html')
 
 
