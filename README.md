@@ -3,7 +3,7 @@
 Mental map associated to the article: Functional trait-based approaches as a common framework for freshwater and marine ecologists.
 
 ## Interactive mental map
-In the file *Traits_Mental_map_ScholarLinks.html* you will find the interactive mental map of aquatic functional traits as described in the unified topology proposed in Martini et al. (2020). The R code is available in the *Traits_Mental_Map.R* file, and all text files that allowed to build it can be downloaded in the repository. A detailed description of the methods used for building this map is available in the *METHODS.md* file.
+The file *Traits_Mental_map_ScholarLinks.html* allows to download the html interactive mental map of aquatic functional traits as described in the unified topology proposed in Martini et al. (2020, under revision). The R code is available in the *Traits_Mental_Map.R* file, and all text files that allowed to build it can be downloaded from the repository. A description of the methods used for building this map is available in the *METHODS.md* file.
 
 Hover your mouse over a node to highlight its connections. A simple click on a trait node will open a bibliography search about this trait in aquatic ecology studies. A maintained click on any node will allow you to move it around. Scroll to zoom in or out.
 
