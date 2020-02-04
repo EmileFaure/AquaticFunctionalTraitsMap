@@ -1,4 +1,4 @@
-#########  Creation of an interactive mental map of aquatic functional traits as described in the infified topology proposed by Martini et al. (2019)
+#########  Creation of an interactive mental map of aquatic functional traits as described in the infified topology proposed by Martini et al. (2020)
 
 # Emile Faure
 # Last update 04/02/2020
